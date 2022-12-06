@@ -15,6 +15,7 @@ namespace LightHouseInter.Controllers
 
         public IActionResult Index()
         {
+            var testChange = "Why Chicken Bones Are bad For Dogs";
             return View();
         }
 

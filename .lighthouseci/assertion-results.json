@@ -2,19 +2,37 @@
   {
     "name": "minScore",
     "expected": 1,
-    "actual": 0.93,
+    "actual": 0.63,
     "values": [
-      0.91,
-      0.93,
-      0.93,
-      0.93,
-      0.93
+      0.59,
+      0.62,
+      0.63,
+      0.56,
+      0.58
     ],
     "operator": ">=",
     "passed": false,
     "auditProperty": "performance",
     "auditId": "categories",
     "level": "warn",
-    "url": "https://localhost:7139/"
+    "url": "https://www.sram.com/en/sram"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.93,
+    "values": [
+      0.93,
+      0.93,
+      0.93,
+      0.93,
+      0.91
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "accessibility",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://www.sram.com/en/sram"
   }
 ]
