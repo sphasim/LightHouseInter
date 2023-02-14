@@ -3,13 +3,15 @@
         collect: {
             /* Add configuration here */
             startServerCommand: 'npm run start',
-            url: ['https://bikefinder.sram.com/', 'https://www.sram.com/en/sram'],
-            numberOfRuns: 5
+            url: ['https://localhost:7139/'],
+            numberOfRuns: 2
         },
         assert: {
             assertions: {
-                'categories:performance': ['warn', { minScore: 1 }],
-                'categories:accessibility': ['error', { minScore: 1 }]
+                'categories:performance': ['error', { minScore: 0.93 }],
+                'categories:accessibility': ['error', { minScore: 0.93 }],
+                'categories:seo': ['error', { minScore: 0.93 }],
+                'categories:best-practices': ['error', { minScore: 0.93 }]
             }
         },
         upload: {
