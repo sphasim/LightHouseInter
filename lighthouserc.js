@@ -3,7 +3,7 @@
         collect: {
             /* Add configuration here */
             startServerCommand: 'npm run start',
-            url: ['https://localhost:7139/'],
+            url: ['https://bikefinder.sram.com/', 'https://www.sram.com/en/sram'],
             numberOfRuns: 5
         },
         assert: {

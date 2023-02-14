@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\LightHouseInter\\LightHouseInter.csproj",
+      "projectUniqueName": "C:\\git\\LightHouseInter\\LightHouseInter.csproj",
       "projectName": "LightHouseInter",
-      "projectPath": "C:\\Git\\LightHouseInter\\LightHouseInter.csproj",
+      "projectPath": "C:\\git\\LightHouseInter\\LightHouseInter.csproj",
       "packagesPath": "C:\\Users\\psimelane\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\LightHouseInter\\obj\\",
+      "outputPath": "C:\\git\\LightHouseInter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\psimelane\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

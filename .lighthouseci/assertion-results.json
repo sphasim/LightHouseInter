@@ -2,9 +2,63 @@
   {
     "name": "minScore",
     "expected": 1,
+    "actual": 0.57,
+    "values": [
+      0.49,
+      0.54,
+      0.55,
+      0.55,
+      0.57
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "performance",
+    "auditId": "categories",
+    "level": "warn",
+    "url": "https://bikefinder.sram.com/"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.62,
+    "values": [
+      0.62,
+      0.62,
+      0.62,
+      0.62,
+      0.62
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "accessibility",
+    "auditId": "categories",
+    "level": "error",
+    "url": "https://bikefinder.sram.com/"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
+    "actual": 0.64,
+    "values": [
+      0.6,
+      0.64,
+      0.63,
+      0.61,
+      0.59
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditProperty": "performance",
+    "auditId": "categories",
+    "level": "warn",
+    "url": "https://www.sram.com/en/sram"
+  },
+  {
+    "name": "minScore",
+    "expected": 1,
     "actual": 0.93,
     "values": [
-      0.91,
+      0.93,
       0.93,
       0.93,
       0.93,
@@ -12,9 +66,9 @@
     ],
     "operator": ">=",
     "passed": false,
-    "auditProperty": "performance",
+    "auditProperty": "accessibility",
     "auditId": "categories",
-    "level": "warn",
-    "url": "https://localhost:7139/"
+    "level": "error",
+    "url": "https://www.sram.com/en/sram"
   }
 ]

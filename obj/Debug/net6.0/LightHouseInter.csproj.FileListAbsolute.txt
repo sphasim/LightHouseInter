@@ -25,3 +25,8 @@ C:\Git\LightHouseInter\obj\Debug\net6.0\LightHouseInter.pdb
 C:\Git\LightHouseInter\obj\Debug\net6.0\LightHouseInter.genruntimeconfig.cache
 C:\Git\LightHouseInter\obj\Debug\net6.0\ref\LightHouseInter.dll
 C:\Git\LightHouseInter\bin\Debug\net6.0\package.json
+C:\git\LightHouseInter\obj\Debug\net6.0\staticwebassets\msbuild.LightHouseInter.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git\LightHouseInter\obj\Debug\net6.0\staticwebassets\msbuild.build.LightHouseInter.props
+C:\git\LightHouseInter\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LightHouseInter.props
+C:\git\LightHouseInter\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LightHouseInter.props
+C:\git\LightHouseInter\obj\Debug\net6.0\staticwebassets.pack.json
